@@ -1,5 +1,5 @@
 # GithubFun
-> :smile: 
+> Github那些有趣的知识:smile: 
 
 ## 关于GithubEmoji使用的知识
 
