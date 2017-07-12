@@ -5,7 +5,7 @@
 
 ## 关于GithubEmoji使用的知识
 
-![emoji](https://images.monsterlin.com/emoji_01.gif)
+![emoji](http://oszh5svp5.bkt.clouddn.com/emoji_01.gif)
 
 - 调色板 – 改进结构和代码格式
 - 闪电 ⚡️ – 优化性能
@@ -16,7 +16,7 @@
 - 文档 – 写文档
 - 火箭 – 部署新功能
 
-![emoji](https://images.monsterlin.com/emoji_02.gif)
+![emoji](http://oszh5svp5.bkt.clouddn.com/emoji_02.gif)
 
 - 完成 ✅ – 添加测试用例
 - 书签 – 发版/版本标签
@@ -27,7 +27,7 @@
 - 绿心 – 修复 CI 构建问题
 - 下降 ⬇️ – 降级依赖库
 
-![emoji](https://images.monsterlin.com/emoji_03.gif)
+![emoji](http://oszh5svp5.bkt.clouddn.com/emoji_03.gif)
 
 - 旗帜 – 修复 Windows 下的问题
 - 上升 ⬆️ – 升级依赖库
@@ -45,7 +45,7 @@
 >
 > 由于经费问题，传送门走了黄牛通道，所以慢了些
 
-![emoji](https://images.monsterlin.com/emoji_cheat.png)
+![emoji](http://oszh5svp5.bkt.clouddn.com/emoji_cheat.png)
 
 
 ---
