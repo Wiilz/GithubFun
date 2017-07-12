@@ -40,8 +40,10 @@
 ## GithubEmoji的获取
 
 > [豪华传送门](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+>
 > 由于经费问题，传送门走了黄牛通道，所以慢了些
 
-![](https://images.monsterlin.com/emoji_cheat.png)
+![emoji](https://images.monsterlin.com/emoji_cheat.png)
+
 
 ---
