@@ -53,6 +53,7 @@
 ## 会动的小人
 
 > 源代码：`GithubFun --> gh-pages 分支`
+>
+> [演示网站传送门](https://monsterlin.github.io/GithubFun/index.html)
 
-[演示网站传送门](https://monsterlin.github.io/GithubFun/index.html)
 ![show](http://oszh5svp5.bkt.clouddn.com/webshow.png)
